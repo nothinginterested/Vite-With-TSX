@@ -1,0 +1,20 @@
+{
+  "name": "Vue3-crash",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "eslint": "^7.5.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "typescript": "^3.9.7",
+    "vite": "^1.0.0-rc.1"
+  }
+}
